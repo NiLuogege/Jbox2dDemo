@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="demo.com.jbox2ddemo.MainActivity">
+
+    <demo.com.jbox2ddemo.JboxLayout
+        android:id="@+id/jl"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+    </demo.com.jbox2ddemo.JboxLayout>
+
+</android.support.constraint.ConstraintLayout>

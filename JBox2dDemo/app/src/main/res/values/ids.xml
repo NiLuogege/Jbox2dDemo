@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="jbox_cycle_view" type="id"/>//圆形View的tag
+    <item name="jbox_body_view" type="id"/>//刚体View的tag
+</resources>
